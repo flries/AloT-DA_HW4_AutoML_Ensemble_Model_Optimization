@@ -25,12 +25,12 @@ The article introduces **PyCaret**, a Python library designed for low-code machi
 PyCaret is a powerful tool for data scientists seeking an efficient, low-code framework to build and deploy machine learning models with robust performance, even without deep expertise in ML libraries.
 
 ## Prompt:
-According to the code in this article, write a Python program that can compare Machine Learning agorithms on classification problem: 
-0. Not needed feature engineering for now.
-1. Use the dataset "Titanic" on Kaggle, multi-features is accept.
-2. Use library "Pycarat" for Machine Learning.
-3. Use function 'compare_models(n_select=16)' that can select top 16 models to compare Machine Learning algorithms. 
-4. Use top 16 models for Stacking on classification problem.
+According to the code in this article, write a Python program that can compare Machine Learning agorithms on classification problem:  
+1. Not needed feature engineering for now.
+2. Use the dataset "Titanic" on Kaggle, multi-features is accept.
+3. Use library "Pycarat" for Machine Learning.
+4. Use function 'compare_models(n_select=16)' that can select top 16 models to compare Machine Learning algorithms. 
+5. Use top 16 models for Stacking on classification problem.
 
 ## Response:
 Here’s the Python program that meets your requirements:
